@@ -1,0 +1,4 @@
+{
+  "example.hello": "Xin chào",
+  "example.thankyou": "Cảm ơn {{name}}"
+}

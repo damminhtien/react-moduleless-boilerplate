@@ -1,0 +1,4 @@
+{
+  "example.hello": "Hello",
+  "example.thankyou": "Thank you {{name}}"
+}
