@@ -1,3 +1,13 @@
+# React moduleless boilerplate
+`An easily scalable, module-less boilerplate with the best dX and a focus on best practices.`
+
+Packages installed:
+* redux - redux thunk
+* axios
+* i18n
+* react-loadable
+* eslint
+
 In the project directory, install packages, you can run:
 
 ### `yarn install`
