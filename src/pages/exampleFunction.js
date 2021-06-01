@@ -30,7 +30,7 @@ const ExampleFunction = (props) => {
       <br />
       <div style={{ border: 'solid 1px #ccc' }}>
         <p>
-          {t('example.hello')} - {t('example.thankyou', { name: 'VHT' })}
+          {t('example.hello')} - {t('example.thankyou', { name: 'DMT' })}
         </p>
         <div onChange={changeLanguage}>
           <label>
